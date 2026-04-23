@@ -60,6 +60,9 @@ Examples:
 All determinants are keys.
 Thus database satisfies BCNF.
 ---
+## Tools used for normalization
+### MySQL Workbench
+---
 ## Functional Dependencies
 ### Customer Table
 Customer_ID → Name, Address, Email, Phone
